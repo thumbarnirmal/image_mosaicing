@@ -1,14 +1,12 @@
 Project Title : Image Mosaicing 
-Prepared by:
-	Admission No. 		Student Name
-	
-	U13CO085			Nirmal Thumber
-	U13CO086			Yogesh Suthar
-	U13CO093			Nilkanth Parmar
-	U13CO095			Alay Patel
-	
-Class: B.Tech IV (Computer Engineering)
+Authors : Nirmal Thumbar <thumbarnirmal@gmail.com>
+	  Yogesh Suthar <yogeshdsuthar97@gmail.com>
+	  Nilkanth Parmar <parmarnilkanth@gmail.com>
+	  Alay Patel <alaypatel89@gmail.com>
 Year : 2016-2017
-Guided by : Mr. Satish Raj Goyal 
 
-	This CD drive contain code for Image Mosaicing named as "imagemosaic.m" ,Input images in Imageset folder and output Image as "mosaic.jpg".
+------------------------------------------------------
+
+Place the images to be mosaiced in 'Imageset' folder and run the program in MATLAB.
+The program will detect and mosaic images automatically.
+Currently mosaicing is done on CPU, so it might not work for large number of images.
